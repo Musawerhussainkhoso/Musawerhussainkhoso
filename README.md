@@ -3,16 +3,58 @@
 </h1>
 
 <p style="font-size: 16px; color: #555;">
-  A passionate <strong>Data Analyst</strong> and <strong>SQL Specialist</strong> who turns raw data into smart decisions. I love working with data-driven tools and automating insights.
+  A passionate <strong>Data Analyst</strong> and <strong>SQL Specialist</strong> who turns raw data into smart decisions.  
+  I love working with data-driven tools and automating insights.
 </p>
 
-<h2 style="color: #2e86de;">🔧 Technical Skills</h2>
-<ul style="line-height: 1.6;">
-  <li><strong>Data Tools:</strong> SQL, Excel, Power BI, Python (Pandas, Matplotlib), Statistics</li>
-  <li><strong>Design Tools:</strong> UI/UX Design, Graphic Designing</li>
-  <li><strong>Other:</strong> Automation, Database Modeling, Reporting</li>
-</ul>
+<!-- GIF Section -->
+<div style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif" width="100%" style="border-radius: 10px;" />
+</div>
 
+<!-- Skills Table -->
+<h2 style="color: #2e86de;">🔧 Technical Skills</h2>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /><br />
+      <span style="font-size: 14px;">Python</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/ios-filled/50/1C1C1C/sql.png" alt="SQL" /><br />
+      <span style="font-size: 14px;">SQL</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" /><br />
+      <span style="font-size: 14px;">Excel</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /><br />
+      <span style="font-size: 14px;">Power BI</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /><br />
+      <span style="font-size: 14px;">PostgreSQL</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" /><br />
+      <span style="font-size: 14px;">GitHub</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /><br />
+      <span style="font-size: 14px;">VS Code</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" /><br />
+      <span style="font-size: 14px;">Pandas</span>
+    </td>
+  </tr>
+</table>
+
+<!-- Projects -->
 <h2 style="color: #2e86de;">📊 Featured Projects</h2>
 <ul>
   <li><a href="https://github.com/Musawerhussainkhoso/crime-incident-reporting_system_sql-project" target="_blank">Crime Reporting System (SQL + PostgreSQL)</a></li>
@@ -21,5 +63,5 @@
 </ul>
 
 <p style="font-size: 14px; color: gray;">
-  📬 Reach me via LinkedIn or explore more on GitHub!
+  📬 Connect with me via LinkedIn or explore more on GitHub!
 </p>
