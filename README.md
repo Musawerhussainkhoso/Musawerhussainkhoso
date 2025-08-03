@@ -1,83 +1,37 @@
-<div style="text-align: center; margin: 0 auto ; padding: 0; font-family: Arial, sans-serif;">
+<h1 align="center">Hi, I'm Musawer Hussain</h1>
 
-  <h1 style="font-size: 28px; font-weight: bold; color: #2c3e50; margin: 10px 0;">
-    👋 Hi, I'm Musawer Hussain
-  </h1>
+<p align="center">
+  A passionate <strong>Data Analyst</strong> and <strong>SQL Specialist</strong> turning data into decisions.<br>
+  Skilled in data visualization, automation, and insights-driven analytics.
+</p>
 
-  <p style="font-size: 16px; color: #555; margin: 5px 0 20px 0;">
-    A passionate <strong>Data Analyst</strong> and <strong>SQL Specialist</strong> who turns raw data into smart decisions.<br>
-    I love working with data-driven tools and automating insights.
-  </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="data gif"/>
+</p>
 
-  <!-- Centered GIF -->
-  <div style="display: flex; justify-content: center; margin: 0;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif" width="50%" style="border-radius: 10px;" />
-  </div>
+<h2 align="center">🚀 Technical Skills</h2>
 
-  <!-- Skills Table -->
-  <h2 style="color: #2e86de; margin-top: 20px;">Technical Skills</h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  <img src="https://img.icons8.com/ios-filled/50/1C1C1C/sql.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
+</p>
 
-  <table style="margin: 0 auto;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /><br />
-        <span style="font-size: 14px;">Python</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/1C1C1C/sql.png" alt="SQL" /><br />
-        <span style="font-size: 14px;">SQL</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" /><br />
-        <span style="font-size: 14px;">Excel</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /><br />
-        <span style="font-size: 14px;">Power BI</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /><br />
-        <span style="font-size: 14px;">PostgreSQL</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" /><br />
-        <span style="font-size: 14px;">GitHub</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /><br />
-        <span style="font-size: 14px;">VS Code</span>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" /><br />
-        <span style="font-size: 14px;">Pandas</span>
-      </td>
-    </tr>
-  </table>
+<h2 align="center">📊 Featured Projects</h2>
 
-  <!-- Projects -->
-  <h2 style="color: #2e86de; margin-top: 30px;">📊 Featured Projects</h2>
-  <ul style="list-style: none; padding: 0; font-size: 15px;">
-    <li>
-      <a href="https://github.com/Musawerhussainkhoso/crime-incident-reporting_system_sql-project" target="_blank">
-        Crime Reporting System (SQL + PostgreSQL)
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Musawerhussainkhoso/walmart-customer-dashboard" target="_blank">
-        Walmart Customer Purchase Analysis (Excel)
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Musawerhussainkhoso/University-Management-System-PostgreSQL" target="_blank">
-        University Management System (PostgreSQL)
-      </a>
-    </li>
-  </ul>
+<p align="center">
+  <a href="https://github.com/Musawerhussainkhoso/crime-incident-reporting_system_sql-project">🔹 Crime Reporting System (SQL + PostgreSQL)</a><br>
+  <a href="https://github.com/Musawerhussainkhoso/walmart-customer-dashboard">🔹 Walmart Customer Purchase Analysis (Excel)</a><br>
+  <a href="https://github.com/Musawerhussainkhoso/University-Management-System-PostgreSQL">🔹 University Management System (PostgreSQL)</a>
+</p>
 
-  <p style="font-size: 14px; color: gray; margin-top: 20px;">
-    📬 Connect with me via LinkedIn or explore more on GitHub!
-  </p>
+---
 
-</div>
+<p align="center">
+  📬 Connect with me via <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> or explore more on GitHub!
+</p>
