@@ -8,7 +8,7 @@
 </p>
 
 <!-- GIF Section -->
-<div style="margin:0 40px;">
+<div style="display: flex; justify-content: center; margin: 20px 0;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"  width="50%" style="border-radius: 10px ;" />
 </div>
 
