@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Musawer Hussain</h1>
+<h1 align="center">👋I'm Musawer Hussain</h1>
 
 <p align="center">
   A passionate <strong>Data Analyst</strong> and <strong>SQL Specialist</strong> turning data into decisions.<br>
