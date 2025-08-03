@@ -8,8 +8,8 @@
 </p>
 
 <!-- GIF Section -->
-<div style="margin:auto;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"  width="50%" style="border-radius: 10px;" />
+<div style="margin: auto;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"  width="50%" style="border-radius: 10px margin: auto ;" />
 </div>
 
 <!-- Skills Table -->
