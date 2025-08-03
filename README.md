@@ -1,4 +1,4 @@
-<div style="text-align: center; margin: 0; padding: 0; font-family: Arial, sans-serif;">
+<div style="text-align: center; margin: 0 auto ; padding: 0; font-family: Arial, sans-serif;">
 
   <h1 style="font-size: 28px; font-weight: bold; color: #2c3e50; margin: 10px 0;">
     👋 Hi, I'm Musawer Hussain
