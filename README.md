@@ -1,4 +1,4 @@
-<h1 style="font-size: 28px; font-weight: bold; color: #2c3e50;">
+<h1 style=" text-align:center font-size: 28px; font-weight: bold; color: #2c3e50;">
   👋 Hi, I'm Musawer Hussain
 </h1>
 
